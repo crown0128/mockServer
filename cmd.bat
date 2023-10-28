@@ -1,0 +1,1 @@
+npx prism mock .\ApplicationForm.yaml
